@@ -58,7 +58,7 @@ class CDRack extends Product {
   private $capacity,
           $model;
   
-  function __construct($capacity="kapasitas",$model="model") {
+  function __construct($capacity="kapasitas",$model="model",) {
     $this->capacity = $capacity;
     $this->model = $model;
   }

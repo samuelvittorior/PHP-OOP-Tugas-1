@@ -1,2 +1,2 @@
 # PemrogramanFramework
-Tempat untuk Tugas Mata Kuliah Pemrograman Framework NIM G.231.21.0187
+Tempat untuk Pengumpulan Tugas 1 Mata Kuliah Pemrograman Framework NIM G.231.21.0187
